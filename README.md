@@ -1,2 +1,2 @@
 # ecomm_ai
-Text to SQL + Reporting for eComm DB
+Text to SQL using AI for eComm DB
